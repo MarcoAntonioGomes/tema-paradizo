@@ -1,8 +1,7 @@
 package br.com.paradizo.tema;
 
-import cotuba.domain.Ebook;
+
 import cotuba.plugin.AoRenderizarHTML;
-import cotuba.plugin.Plugin;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
